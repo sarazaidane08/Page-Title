@@ -1,0 +1,26 @@
+.parent {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.column {
+    border: #ff9999 solid 5px;
+    margin: 6px;
+    padding: 20px;
+}
+
+.parent1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.vote {
+    border: #1affa3 dashed 5px;
+    margin: 6px;
+    padding: 20px;
+}
+.img{ 
+    width:400px;
+}
